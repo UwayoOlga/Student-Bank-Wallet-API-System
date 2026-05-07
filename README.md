@@ -80,16 +80,6 @@ A comprehensive digital wallet system for university students built with ASP.NET
 5. **Access Swagger UI**
    Open browser and go to: `https://localhost:7000` (or the port shown in console)
 
-## Sample Data
-
-The system comes with pre-seeded test students:
-
-| Student ID | Name | PIN | Initial Balance |
-|------------|------|-----|----------------|
-| STU001 | John Doe | 1234 | $100.00 |
-| STU002 | Jane Smith | 5678 | $250.50 |
-| STU003 | Mike Johnson | 9999 | $75.25 |
-
 ## Transaction Flow Example
 
 1. **Login**
